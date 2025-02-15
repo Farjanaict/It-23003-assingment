@@ -1,0 +1,2 @@
+Sum: 46
+Highest Value: 20
